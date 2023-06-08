@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calvin</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>
